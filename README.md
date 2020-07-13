@@ -16,7 +16,7 @@ My credentials include a complete Data Engineer training by one of the best stud
 **Links:**
 * [Blog](http://anavrin.tech)
 * [LinkedIn](https://www.linkedin.com/in/david-rodrigues-31891310a/)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@david.borges)
 
 ## Projetos:
 Veja os tutoriais publicados na Anavrin.tech:
